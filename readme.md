@@ -6,10 +6,8 @@ You'll also understand how flex layout works and best practices of styling UIs a
 
 Final Output:
 
-<div style="text-align:center">
-<img src="https://i.imgur.com/rcNMTbG.png" style="max-width:300px" />
-</div>
+![](https://i.imgur.com/mPGNVH7.png)
 
-Youtube video - https://www.youtube.com/watch?v=LdKtugH-sb8
+[React Native Tutorial](https://www.youtube.com/watch?v=LdKtugH-sb8)
 
 CodingisLove Blog - https://codingislove.com/
