@@ -6,7 +6,9 @@ You'll also understand how flex layout works and best practices of styling UIs a
 
 Final Output:
 
-![](https://i.imgur.com/rcNMTbG.png)
+<div style="text-align:center">
+<img src="https://i.imgur.com/rcNMTbG.png" style="max-width:300px" />
+</div>
 
 Youtube video - https://www.youtube.com/watch?v=LdKtugH-sb8
 
